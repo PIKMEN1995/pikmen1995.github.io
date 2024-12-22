@@ -59,31 +59,32 @@ small {
   display : none;
 }
 .card-cell{
-    height: 4.5rem !important;
-    width: 4.5rem !important;
+    height: 6rem !important;
+    width: 6rem !important;
 }
 .card-cell:hover{
-    background-color: red;
+    background-image: url(slash.png) !important;
+    background-size: 6em;
 }
 .card, .card-body{
     background-image: url(Tarkov_Bingo1-1.png);
-    height; 31rem;
-    width: 30rem;
-    background-size: 30rem;
+    height; 41rem;
+    width: 40rem;
+    background-size: 40rem;
 }
 .break-div-1{
-    height:11.5rem;
-    width: 30rem;
+    height:15.2rem;
+    width: 40rem;
 }
 .break-div-2{
-    height:4.5rem;
-    width: 3.8rem;
+    height:6rem;
+    width: 5rem;
 }
 .break-div-3{
-    height:4.5rem;
-    width: 30rem;
+    height:6rem;
+    width: 40rem;
 }
 .strike {
   background-image: url(slash.png) !important;
-    background-size: 4.5em
+    background-size: 6em
 }
